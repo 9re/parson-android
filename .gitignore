@@ -1,0 +1,5 @@
+bin/*
+gen/*
+obj/*
+!gen/.gitignore
+local.properties
