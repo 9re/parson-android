@@ -1,0 +1,3 @@
+[submodule "jni/parson"]
+	path = jni/parson
+	url = https://github.com/kgabis/parson.git
